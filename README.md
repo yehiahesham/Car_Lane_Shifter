@@ -9,9 +9,13 @@
 # Screenshots
 
 Trapezoid is red since a car was passing by. Therefore, the driver cannot shift lanes.
+![alt tag](https://github.com/yehiahesham/Car_Lane_Shifter/blob/master/sc1.png) 
 
 Car is detected but it is in the same lane and far away from the driver. Therefore the trapezoid is green and the driver can shift lanes.
+![alt tag](https://github.com/yehiahesham/Car_Lane_Shifter/blob/master/sc2.png)
 
-Here, there are cars in the other lane, so the driver cant shift.
+Here, there are cars in the other lane, so the driver can't shift.
+![alt tag](https://github.com/yehiahesham/Car_Lane_Shifter/blob/master/sc3.png)
 
 Here, a truck is detected in the other lane but it is far away so the driver is still safe to switch lanes.
+![alt tag](https://github.com/yehiahesham/Car_Lane_Shifter/blob/master/sc4.png)
